@@ -12,5 +12,5 @@ print("""
 url = input('Url>> ')
 os.system('cls')
 dominio = whois.whois(url)
-kl = dominio.text
-print(kl)
+wh = dominio.text
+print(wh)
